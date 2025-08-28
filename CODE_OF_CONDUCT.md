@@ -2,7 +2,7 @@
 
 ## Notre Engagement
 
-Dans l'intérêt de favoriser un environnement ouvert et accueillant, nous nous engageons, en tant que contributeurs et mainteneurs de {{ PROJECT_TITLE }}, à faire de la participation à notre projet et à notre communauté une expérience sans harcèlement pour tout le monde, quels que soient l'âge, la taille, le handicap, l'ethnie, les caractéristiques sexuelles, l'identité et l'expression de genre, le niveau d'expérience, l'éducation, le statut socio-économique, la nationalité, l'apparence personnelle, la race, la religion ou l'identité et l'orientation sexuelle.
+Dans l'intérêt de favoriser un environnement ouvert et accueillant, nous nous engageons, en tant que contributeurs et mainteneurs, à faire de la participation à notre projet et à notre communauté une expérience sans harcèlement pour tout le monde, quels que soient l'âge, la taille, le handicap, l'ethnie, les caractéristiques sexuelles, l'identité et l'expression de genre, le niveau d'expérience, l'éducation, le statut socio-économique, la nationalité, l'apparence personnelle, la race, la religion ou l'identité et l'orientation sexuelle.
 
 ## Nos Standards
 
